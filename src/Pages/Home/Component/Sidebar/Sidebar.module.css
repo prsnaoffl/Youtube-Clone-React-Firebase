@@ -1,0 +1,60 @@
+.subscription{
+    color:rgb(187, 182, 182);
+    padding: 10px 0px;
+    font-size: 16px;
+}
+
+.container {
+    padding: 20px;
+    width:200px;
+    
+}
+
+.dot{
+    width:10px !important;
+    height:10px !important;
+    color: rgb(0, 140, 255) !important;
+}
+.expand{
+    /* display: flex; */
+    align-items:center;
+    gap:15px;
+}
+.expand>h5{
+    color:rgb(187, 182, 182);
+    font-size: 14px;
+    font-weight:16px;
+    margin-top: 20px;
+}
+
+.more{
+    color:grey;
+    margin-top: 5px;
+}
+
+.moreYouTube{
+    color: grey;
+    padding: top 20px;
+    font: size 16px;
+    width:250px;
+}
+
+.footer{
+    color:gray;
+    margin-top: 50px;
+    font-size: 13px;
+}
+
+.footer>p{
+    font-weight:500;
+    cursor:pointer;
+}
+
+.footer{
+    cursor:pointer
+}
+
+/* .container > hr{
+    color:rgb(66, 64, 64);
+    width:250px;
+} */

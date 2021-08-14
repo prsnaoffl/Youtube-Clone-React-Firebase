@@ -1,0 +1,25 @@
+[debug] [2021-08-13T13:26:38.670Z] ----------------------------------------------------------------------
+[debug] [2021-08-13T13:26:38.676Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\elcot\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-08-13T13:26:38.678Z] CLI Version:   9.16.3
+[debug] [2021-08-13T13:26:38.678Z] Platform:      win32
+[debug] [2021-08-13T13:26:38.678Z] Node Version:  v14.17.3
+[debug] [2021-08-13T13:26:38.683Z] Time:          Fri Aug 13 2021 18:56:38 GMT+0530 (India Standard Time)
+[debug] [2021-08-13T13:26:38.684Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-08-13T13:26:38.919Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-08-13T13:26:38.920Z] > authorizing via signed-in user (prasannakumar20000320@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\elcot\Desktop\Files\1.Vscode\1.React\Youtube clone\project-yt
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+

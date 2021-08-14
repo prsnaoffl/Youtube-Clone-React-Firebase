@@ -1,0 +1,24 @@
+.name{
+    color:white;
+    font-size:14px;
+    font: weight 6px;
+}
+.image{
+    color:grey;
+    margin-top: 5px;
+}
+.item{
+    display: flex;
+    align-items: center;
+    gap:15px;
+}
+
+.container{
+    margin: 10px 0;
+}
+
+.container:hover{
+    background-color: rgba(128,128,128,0.61);
+    cursor: pointer;
+    width:250px;
+}
